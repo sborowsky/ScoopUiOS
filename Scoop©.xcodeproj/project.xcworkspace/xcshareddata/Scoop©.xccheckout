@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>6AF643B1-8AB1-4F97-83C2-F86A97007009</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Scoop©</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>452FC932243370FC064E60D7541CD9AB80EAE886</key>
+		<string>https://github.com/sborowsky/ScoopUiOS.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Scoop©.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>452FC932243370FC064E60D7541CD9AB80EAE886</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/sborowsky/ScoopUiOS.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>452FC932243370FC064E60D7541CD9AB80EAE886</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>452FC932243370FC064E60D7541CD9AB80EAE886</string>
+			<key>IDESourceControlWCCName</key>
+			<string>scoop_offical_s</string>
+		</dict>
+	</array>
+</dict>
+</plist>
