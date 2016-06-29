@@ -166,6 +166,7 @@ static NSString *cellIdentifier = @"CellTableIdentifier";
 }
 
 - (void)showTableView {
+    self.display_str = @"table";
     [back_button setHidden:YES];
     [report_button setHidden:NO];
     [_name_field setHidden:YES];
