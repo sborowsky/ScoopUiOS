@@ -177,7 +177,7 @@
 		5F9A57A81A8D4F2000D85D66 /* LoggedInTableCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LoggedInTableCell.m; sourceTree = "<group>"; };
 		5FAAF02E1B84126F00E08E26 /* icon_official_60.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon_official_60.png; sourceTree = SOURCE_ROOT; };
 		5FAAF0321B8422CB00E08E26 /* report_back_0.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = report_back_0.png; sourceTree = SOURCE_ROOT; };
-		5FB1A95D1D2306E800D99DD4 /* NewsViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = NewsViewController.m; path = ../../../../../NewsViewController.m; sourceTree = "<group>"; };
+		5FB1A95D1D2306E800D99DD4 /* NewsViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NewsViewController.m; sourceTree = "<group>"; };
 		5FB1BEE61A9168E100F85E9E /* TabBarViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = TabBarViewController.h; path = ../TabBarViewController.h; sourceTree = "<group>"; };
 		5FB1BEE71A9168E100F85E9E /* TabBarViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = TabBarViewController.m; path = ../TabBarViewController.m; sourceTree = "<group>"; };
 		5FCA4B121A9192E9006FAB60 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
